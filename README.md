@@ -2,10 +2,10 @@
 
 ```shell
  { “name” : “Juan Pablo Guarin Henao”,
-   “role” : “Fullstack Dev”,
+   “role” : “Computer Engineer”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/juan-pablo-guar%C3%ADn-henao-08131520a/"
+      "Linkedin" : "https://www.linkedin.com/in/juan-pablo-guarin-henao/"
      }
  }
 ```
